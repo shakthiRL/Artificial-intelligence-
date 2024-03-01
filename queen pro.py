@@ -1,4 +1,4 @@
-print("PADMASRI-192124165")
+print("SHAKTHI-192224184")
 print("8-Queen problem program")
 print ("Enter the number of queens")
 N = int(input())
