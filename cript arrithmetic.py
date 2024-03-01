@@ -1,4 +1,4 @@
-print("PADMASRI-192124165")
+print("SHAKTHI-192224184")
 print("Cript-Arithmetic proble")
 
 import itertools
