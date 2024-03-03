@@ -1,4 +1,4 @@
-print("PADMASRI-192124165")
+print("shakthi")
 print(" Feed forward neural Network ")
 import numpy as np
 
