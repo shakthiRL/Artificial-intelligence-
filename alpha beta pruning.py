@@ -1,4 +1,4 @@
-print("PADMASRI-192124165")
+print("shakthi")
 print(" Apha & Beta pruning algorithm for gaming ")
 MAX, MIN = 1000, -1000
 MAX, MIN = 1000, -1000
